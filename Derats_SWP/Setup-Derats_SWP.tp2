@@ -1,0 +1,36 @@
+BACKUP ~Derats_SWP/Backup~
+AUTHOR ~Deratiseur, at the_deratiseur@hotmail.com~
+VERSION ~v1~
+
+ALWAYS
+	INCLUDE ~Derats_SWP/fl#add_kit_ee.tpa~
+END
+
+LANGUAGE ~Francais~
+	~French~
+	~Derats_SWP/Languages/French/4UH4S4RD.tra~
+LANGUAGE ~English~
+	~English~
+	~Derats_SWP/Languages/English/4UH4S4RD.tra~
+
+BEGIN @1
+REQUIRE_PREDICATE GAME_IS ~BG2EE IWDEE EET~ @009
+ADD_KIT ~px4UH4S4RD~
+~px4UH4S4RD                1           1           1           1           1           1           1           1~
+~px4UH4S4RD                5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 1 1 1 1 1 2 2 2 3 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5~
+~px4UH4S4RD                9       0       0       0       0       0~
+~px4UH4S4RD                0       0       0       0       0       0~
+~px4UH4S4RD                17      0       0       0       0       0~
+~px4UH4S4RD                15      0       0       0       0       0~
+~px4UH4S4RD                1       1       1       1       1       1       1       1       1~
+~px4UH4S4RD                0       1       1       1       1       0~
+~Derats_SWP/4UH4S4RD/px4UH4S.2da~
+~K_F_H    K_F_D   K_F_G   K_F_E   K_F_HE   K_F_HL   K_F_HO~
+~0x00004001 2~
+~~
+~CHAN09 * HELM07 BAG20 RING06 RING31 * BOOT01 AMUL19 BRAC16 BELT06 AROW11,40 BULL03,40 BOLT06,40 POTN52,5 POTN04,2 POTN14,5 HAMM07 SW1H27 STAF08~
+SAY @2
+SAY @3
+SAY @4
+LAF fl#add_kit_ee	STR_VAR kit_name = px4UH4S4RD	END
+COPY	~Derats_SWP/4UH4S4RD/px4uhab.spl~						~override~
