@@ -1,0 +1,13 @@
+V1 : première mise en ligne
+
+V2 :
+- Séparation des capacités de base et des hlas en deux capacités distinctes pour simuler des hlas au kit.
+- Accélération du rythme auquel le kit gagne les capacités pour lui donner de l’intérêt.
+- Ajout de sorts épiques aux possibilités de hlas aléatoires.
+- Ajout de 5 capacités de base aléatoires.
+- Ajout de 14 hlas aléatoires.
+- Le temps d'incantation des sorts passe à 0 puisque celui des capacités est de 0.
+- Modification de la gestion des métamorphoses pour qu'elles ne soient plus buguées par SCS ou Tweak Anthology ou SR ou d'autres.
+- Suppression du HLA "lames d’énergie" parce que le kit ne se sert pas d'armes à distance.
+- Forme de l'ombre et Forme spirituelle sont fusionnés en un seul hla puisqu'ils font la même chose.
+- Correction : la capacité spéciale n'avait pas de nom.

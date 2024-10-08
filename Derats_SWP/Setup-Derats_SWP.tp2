@@ -33,4 +33,6 @@ SAY @2
 SAY @3
 SAY @4
 LAF fl#add_kit_ee	STR_VAR kit_name = px4UH4S4RD	END
-COPY	~Derats_SWP/4UH4S4RD/px4uhab.spl~						~override~
+COPY	~Derats_SWP/4UH4S4RD/Copy~								~override~
+COPY	~Derats_SWP/4UH4S4RD/px4uhab.spl~						~override~	SAY NAME1 @5
+COPY	~Derats_SWP/4UH4S4RD/px4uhac.spl~						~override~	SAY NAME1 @6
