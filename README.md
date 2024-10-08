@@ -13,9 +13,11 @@
 -------------
 
 Un kit qui peut lancer 1x par 2 niveaux une capacité aléatoire reproduisant n'importe quelle capacité spéciale de n'importe quel kit. A partir du niveau 18 il peut lancer 1x par niveau une capacité reproduisant n'importe quel hla/sort épique de n'importe quelle classe.
+
 Désavantage : pas d'arme à distance, pas de hlas "normaux".
 
 -------------
 
 A kit that can cast 1x per 2 levels a random ability reproducing any special ability from any kit. From level 18 it can cast 1x per level an ability reproducing any hla/epic spell of any class.
+
 Disadvantage: no ranged weapon, no "normal" hlas.
