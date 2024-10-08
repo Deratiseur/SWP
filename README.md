@@ -1,4 +1,4 @@
-# 4U-H4SARD
+# 4U-H4SARD / 4T-R4ND0M
 
 ![Language](https://img.shields.io/static/v1?label=language&message=english%20%7C%20french%20%7C%20&color=informational)
 ![Platform](https://img.shields.io/static/v1?label=platform&message=windows%20%7C%20macOS%20%7C%20&color=informational)
